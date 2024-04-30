@@ -1,6 +1,6 @@
 {
     "AWSTemplateFormatVersion": "2010-09-09",
-        "Description": "Inventory API DynamoDB Table",
+        "Description": "Renting API DynamoDB Table",
         "Parameters": {
             "Namespace": {
                 "Description": "The namespace which this table belongs to",
